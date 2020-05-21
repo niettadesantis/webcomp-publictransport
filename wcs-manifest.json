@@ -1,7 +1,7 @@
 {
   "title": "Routeplanner",
-  "description": "Routeplanner widget",
-  "descriptionAbstract": "Routeplanner widget",
+  "description": "A webcomponent that can easily be customized passing the gps-position of a place in South Tyrol to be reached with the public transport or by car.",
+  "descriptionAbstract": "Routeplanner widget for South Tyrol",
   "license": "AGPL-3.0-or-later",
   "copyrightHolders": [
     {
